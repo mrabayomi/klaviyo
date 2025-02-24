@@ -1,6 +1,7 @@
 [
     {
       "id":"MORGINS JACKET - BROWN",
+      "item_id": 1,
       "title":"MORGINS JACKET",
       "Brand":"MONCLER",
       "link":"https://www.viladomat.com/ca/jaquetes-d-esqui-d-home/75348-589966-morgins-jacket.html#/8-talla-5/1099-color-brown",
@@ -15,6 +16,7 @@
     },
     {
         "id":"ARNE-LD - NAVY",
+        "item_id": 2,
         "title":"ARNE-LD",
         "Brand":"BOGNER",
         "link":"https://www.viladomat.com/ca/jaquetes-d-esqui-d-home/85350-799129-arne-ld.html#/2098-color-navy/2166-talla-50",
@@ -29,6 +31,7 @@
       },
       {
         "id":"DESOT JACKET - BLACK",
+        "item_id": 3,
         "title":"DESOT JACKET",
         "Brand":"MONCLER",
         "link":"https://www.viladomat.com/ca/jaquetes-d-esqui-d-home/84720-793214-desot-jacket.html#/3-color-black/8-talla-5",
