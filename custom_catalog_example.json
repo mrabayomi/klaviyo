@@ -2,6 +2,7 @@
     {
       "id":"MORGINS JACKET - BROWN",
       "title":"MORGINS JACKET",
+      "Brand":"MONCLER",
       "link":"https://www.viladomat.com/ca/jaquetes-d-esqui-d-home/75348-589966-morgins-jacket.html#/8-talla-5/1099-color-brown",
       "description":"Men's Ski Jackets",
       "sale_price": 2.030,
@@ -15,6 +16,7 @@
     {
         "id":"ARNE-LD - NAVY",
         "title":"ARNE-LD",
+        "Brand":"BOGNER",
         "link":"https://www.viladomat.com/ca/jaquetes-d-esqui-d-home/85350-799129-arne-ld.html#/2098-color-navy/2166-talla-50",
         "description":"Men's Ski Jackets",
         "sale_price": 1.964,
@@ -28,6 +30,7 @@
       {
         "id":"DESOT JACKET - BLACK",
         "title":"DESOT JACKET",
+        "Brand":"MONCLER",
         "link":"https://www.viladomat.com/ca/jaquetes-d-esqui-d-home/84720-793214-desot-jacket.html#/3-color-black/8-talla-5",
         "description":"Men's Ski Jackets",
         "sale_price": 1.436,
