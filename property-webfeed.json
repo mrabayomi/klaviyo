@@ -1,0 +1,49 @@
+{
+    "Property": [
+      {
+        "id":1,
+        "item_name": "The Bridge House",
+        "title":"The Bridge House",
+        "Brand":"The Bridge House",
+        "link":"https://themodernhouse.com/sales-list/the-bridge-house",
+        "description":"The Bridge House",
+        "location" : "Bursledon, Hampshire",
+        "type" : "Freehold",
+        "price": 4600000,
+        "image_link":"https://themodernhouse.com/cdn-cgi/image/width=3840,quality=40/https://s3.amazonaws.com/propertybase-clients/00D0X000000twgKUAQ/a0O6700000xONOd/16ml5t5di/1.jpg",
+        "categories":["Contemporary Homes"],
+        "inventory_quantity":1,
+        "inventory_policy":1
+      },
+      {
+        "id":2,
+        "item_name": "Cleveland Square",
+        "title":"Cleveland Square",
+        "Brand":"Cleveland Square",
+        "link":"https://themodernhouse.com/sales-list/Cleveland-Square",
+        "description":"Cleveland Square",
+        "location" : "London W2",
+        "type" : "Share of Freehold",
+        "price": 4500000,
+        "image_link":"https://themodernhouse.com/cdn-cgi/image/width=1080,quality=30/https://data.openasset.com/96f1d0ad/3941ec606d0189bfa6dc7f7b16147d13/a0O0X00000QXLauUAH_N29_jpg/a0O0X00000QXLauUAH_N29_webres.jpg",
+        "categories":["Contemporary Homes"],
+        "inventory_quantity":1,
+        "inventory_policy":1
+      },
+      {
+        "id":3,
+        "item_name": "Wolseley Road",
+        "title":"Wolseley Road",
+        "Brand":"Wolseley Road",
+        "link":"https://themodernhouse.com/sales-list/wolseley-road",
+        "description":"Wolseley Road",
+        "location" : "London N8",
+        "type" : "Freehold",
+        "price": 3795000,
+        "image_link":"https://themodernhouse.com/cdn-cgi/image/width=1080,quality=30/https://data.openasset.com/96f1d0ad/d637d323afce5871a6572e024f0ffd5c/a0O6700000xWPUsEAO_N53_jpg/a0O6700000xWPUsEAO_N53_webres.jpg",
+        "categories":["Contemporary Homes"],
+        "inventory_quantity":1,
+        "inventory_policy":1
+      }
+    ]
+  }
