@@ -14,7 +14,7 @@
         "categories":["Contemporary Homes"],
         "inventory_quantity":1,
         "inventory_policy":1
-      },
+      }, 
       {
         "id":2,
         "item_name": "Cleveland Square",
